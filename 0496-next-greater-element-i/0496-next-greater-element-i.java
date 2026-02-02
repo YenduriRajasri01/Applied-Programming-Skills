@@ -14,6 +14,6 @@ class Solution {
         for (int i = 0; i < nums1.length; i++) {
             res[i] = ng.getOrDefault(nums1[i], -1);
         }
-        return res;        
+        return res;
     }
 }
