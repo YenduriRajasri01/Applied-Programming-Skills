@@ -42,6 +42,7 @@
 | [0198-house-robber](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0198-house-robber/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0695-max-area-of-island](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
@@ -133,6 +134,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0198-house-robber/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
