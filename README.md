@@ -38,12 +38,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0695-max-area-of-island](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0997-find-the-town-judge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -55,4 +57,16 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
