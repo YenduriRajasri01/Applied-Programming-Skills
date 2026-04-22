@@ -41,6 +41,7 @@
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0695-max-area-of-island](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
@@ -65,11 +66,13 @@
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0190-reverse-bits/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +110,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
