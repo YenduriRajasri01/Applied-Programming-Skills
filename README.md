@@ -47,6 +47,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0997-find-the-town-judge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
+| [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0190-reverse-bits/) | Easy |
+| [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0190-reverse-bits/) | Easy |
+| [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
 <!---LeetCode Topics End-->
