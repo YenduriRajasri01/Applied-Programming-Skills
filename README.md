@@ -53,6 +53,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
@@ -201,5 +202,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
