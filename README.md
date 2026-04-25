@@ -148,6 +148,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -166,6 +167,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0542-01-matrix/) | Medium |
@@ -178,4 +180,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
