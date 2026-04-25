@@ -52,6 +52,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
@@ -68,6 +69,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
@@ -99,6 +101,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0721-accounts-merge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -114,6 +117,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
