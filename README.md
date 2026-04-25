@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
+| [0078-subsets](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
@@ -117,6 +118,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0190-reverse-bits/) | Easy |
 | [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## String
@@ -196,4 +198,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
