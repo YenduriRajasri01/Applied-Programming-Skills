@@ -4,6 +4,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
@@ -14,6 +15,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0542-01-matrix/) | Medium |
@@ -27,6 +29,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -46,6 +49,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0542-01-matrix](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -62,6 +66,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
