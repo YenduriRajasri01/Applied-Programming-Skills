@@ -20,6 +20,7 @@
 | [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -57,6 +58,7 @@
 | [0198-house-robber](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0322-coin-change](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -172,6 +174,7 @@
 | [0062-unique-paths](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
