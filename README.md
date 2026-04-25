@@ -61,6 +61,7 @@
 | [0721-accounts-merge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0929-unique-email-addresses](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
@@ -70,6 +71,7 @@
 | [0169-majority-element](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Matrix
@@ -113,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [1763-longest-nice-substring](https://github.com/YenduriRajasri01/Applied-Programming-Skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
